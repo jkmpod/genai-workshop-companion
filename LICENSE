@@ -1,0 +1,8 @@
+Code in this repository (app/, templates/ unless a folder states otherwise)
+is licensed under the GNU General Public License v3.0.
+
+Full text: https://www.gnu.org/licenses/gpl-3.0.txt
+(Include the full text file when cloning for distribution.)
+
+Individual template folders may carry their own LICENSE file (e.g. MIT)
+mirroring their upstream source. The folder-level LICENSE wins.
