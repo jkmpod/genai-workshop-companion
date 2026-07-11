@@ -16,7 +16,7 @@ Why these? See [decision-support/tool-comparison.md](../../decision-support/tool
 
 ## Materials
 - Slides: *[Docs folder in the repo](https://github.com/bharatm23/saathi-v0/blob/main/docs/Saathi%20-%20SlideDeck.html)*
-- Recording: *[Google Drive Link](https://drive.google.com/drive/folders/1Ifbhxu8PeTIBv5rZZkl97or8szgmyfT8)*
+- Recording: *[Google Drive Link](https://drive.google.com/file/d/1bIiXIIsJPlKE383rEpBH-JF9YRbvN3KE/view?usp=sharing)*
 - Project repo: **[Github Repo Link](https://github.com/bharatm23/saathi-v0/)
 
 ## Check yourself (ungraded)

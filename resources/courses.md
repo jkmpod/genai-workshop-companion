@@ -7,5 +7,4 @@ Tags: `[level] [effort] [free/paid]`
 - **fast.ai — Practical Deep Learning** — `[builder] [multi-week] [free]` — Why: if you want to understand what's *inside* the model, this remains the most learner-centric route in.
 - **NPTEL courses** — `[novice→builder] [semester pace] [free/cert-paid]` — Why: the foundational conceptual knowledge (math, programming, ML) that this workshop's student builders stand on; the long game.
 - **CS50's Introduction to AI with Python (Harvard)** — `[novice] [multi-week] [free]` — Why: gentle, rigorous on-ramp if "developer, new to GenAI" undersells your gap.
-
 **Check yourself:** effort tags matter more than level tags here. Choose by the hours you actually have — an unfinished great course teaches less than a finished good one.
