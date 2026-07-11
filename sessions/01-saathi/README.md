@@ -15,9 +15,9 @@ Next.js · FastAPI · Supabase (Postgres + pgvector) · OpenRouter · OpenAI emb
 Why these? See [decision-support/tool-comparison.md](../../decision-support/tool-comparison.md) — Saathi is the "pgvector because we already have Postgres" case study.
 
 ## Materials
-- Slides: *(link added post-session)*
-- Recording: *(link added post-session)*
-- Project repo: *(link added post-session)*
+- Slides: *[Docs folder in the repo](https://github.com/bharatm23/saathi-v0/blob/main/docs/Saathi%20-%20SlideDeck.html)*
+- Recording: *[Google Drive Link](https://drive.google.com/drive/folders/1Ifbhxu8PeTIBv5rZZkl97or8szgmyfT8)*
+- Project repo: **[Github Repo Link](https://github.com/bharatm23/saathi-v0/)
 
 ## Check yourself (ungraded)
 In Saathi's pipeline, which step would you hand to the *cheapest* model on the [matrix](../../decision-support/model-matrix.md), and which to the priciest? Why?

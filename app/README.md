@@ -1,6 +1,6 @@
 # The Companion App — pointer & purpose
 
-The app's **source code lives in its own repository**: *(link added at deploy — `github.com/<jk>/genai-workshop-companion-app`)*. This folder holds only the architecture documentation, because the *design* is workshop content even where the code isn't vendored here.
+The app's **source code lives in its own [repository](https://github.com/jkmpod/genai-course-app)**: . This folder holds only the architecture documentation, because the *design* is workshop content even where the code isn't vendored here.
 
 ## Why the app is a worked example
 It was built with the same identify → use → iterate loop the workshop teaches, using spec-driven development with four role-separated agents (Architect, Senior Developer, QC Lead, DevOps) in Claude Code. The specs and agent definitions ship inside the app repo — read them; the *process* is the artifact.
