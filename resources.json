@@ -1,0 +1,97 @@
+[
+  {
+    "title": "DeepLearning.AI short courses (LangChain, RAG, agents, evals)",
+    "url": "https://www.deeplearning.ai/short-courses/",
+    "tags": ["courses", "prompt-user", "builder"]
+  },
+  {
+    "title": "Hugging Face LLM Course",
+    "url": "https://huggingface.co/learn/llm-course",
+    "tags": ["courses", "builder"]
+  },
+  {
+    "title": "fast.ai — Practical Deep Learning",
+    "url": "https://course.fast.ai/",
+    "tags": ["courses", "builder"]
+  },
+  {
+    "title": "NPTEL courses",
+    "url": "https://nptel.ac.in/",
+    "tags": ["courses", "novice", "builder"]
+  },
+  {
+    "title": "CS50's Introduction to AI with Python (Harvard)",
+    "url": "https://cs50.harvard.edu/ai/",
+    "tags": ["courses", "novice"]
+  },
+  {
+    "title": "Latent Space",
+    "url": "https://www.latent.space/podcast",
+    "tags": ["podcasts", "builder", "engineering"]
+  },
+  {
+    "title": "Practical AI",
+    "url": "https://practicalai.show/episodes",
+    "tags": ["podcasts", "all", "applied"]
+  },
+  {
+    "title": "No Priors",
+    "url": "https://www.youtube.com/watch?v=8nj_0wZkbtA&list=PLMKa0PxGwad7jf8hwwX8w5FHitXZ1L_h1",
+    "tags": ["podcasts", "all", "industry"]
+  },
+  {
+    "title": "TWIML AI Podcast",
+    "url": "https://twimlai.com/podcast/twimlai",
+    "tags": ["podcasts", "builder", "research"]
+  },
+  {
+    "title": "One Useful Thing — Ethan Mollick",
+    "url": "https://www.oneusefulthing.org/",
+    "tags": ["newsletters", "novice"]
+  },
+  {
+    "title": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/",
+    "tags": ["newsletters", "builder"]
+  },
+  {
+    "title": "Interconnects — Nathan Lambert",
+    "url": "https://www.interconnects.ai/",
+    "tags": ["newsletters", "builder"]
+  },
+  {
+    "title": "Ahead of AI — Sebastian Raschka",
+    "url": "https://magazine.sebastianraschka.com/",
+    "tags": ["newsletters", "builder"]
+  },
+  {
+    "title": "OpenRouter model catalog",
+    "url": "https://openrouter.ai/models",
+    "tags": ["reference", "all", "models"]
+  },
+  {
+    "title": "Hugging Face",
+    "url": "https://huggingface.co",
+    "tags": ["reference", "builder", "models"]
+  },
+  {
+    "title": "Prompt Engineering Guide",
+    "url": "https://www.promptingguide.ai",
+    "tags": ["reference", "novice", "builder", "prompting"]
+  },
+  {
+    "title": "RAGAS documentation",
+    "url": "https://docs.ragas.io",
+    "tags": ["reference", "builder", "evaluation"]
+  },
+  {
+    "title": "LangChain / LangGraph docs",
+    "url": "https://python.langchain.com",
+    "tags": ["reference", "builder", "orchestration"]
+  },
+  {
+    "title": "Google AI Studio",
+    "url": "https://aistudio.google.com",
+    "tags": ["reference", "all", "hands-on"]
+  }
+]
